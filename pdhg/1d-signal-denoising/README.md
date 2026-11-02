@@ -193,7 +193,7 @@ $\tau\sigma \approx 0.249 < 0.25$. ✓
 ## 8. Running the Code
 
 ```bash
-pip install -r ../requirements.txt   # numpy, matplotlib
+pip install -r ../../requirements.txt   # numpy, matplotlib
 python main.py
 ```
 
